@@ -1,0 +1,27 @@
+﻿<Window x:Class="AirConditionerShop_NguyenGiaKhanh.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirConditionerShop_NguyenGiaKhanh"
+        mc:Ignorable="d"
+        Title="LoginWindow " Height="360" Width="600" FontFamily= "Arial" FontSize="14" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="324" Stroke="Black" VerticalAlignment="Center" Width="498" RadiusY="20" RadiusX="20"  />
+
+
+
+
+        <Label Content="Email" HorizontalAlignment="Left" Margin="102,125,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="102,214,0,0" VerticalAlignment="Top"   FontSize="20" FontWeight="Bold" RenderTransformOrigin="0.073,-0.102"/>
+        <TextBox x:Name="EmailAddressTextBox" HorizontalAlignment="Left" Margin="249,119,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="249" Height="45" RenderTransformOrigin="0.473,1.13"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="249,208,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="249" Height="45"/>
+        <Label Content="            Log in " HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top"  FontSize="35" FontWeight="ExtraBold" Background="Chocolate" Width="395"/>
+        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Margin="334,284,0,0" VerticalAlignment="Top" Width="164" Height="29" Background="Red" FontSize="22" FontWeight="Bold" Foreground="Gold"/>
+        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Margin="102,284,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.976,0.878" Width="163" Height="29" Background="Red" FontSize="22" FontWeight="Bold" Foreground="Blue"/>
+
+
+
+
+    </Grid>
+</Window>

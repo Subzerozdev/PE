@@ -1,0 +1,14 @@
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.deps.json
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.AssemblyInfoInputs.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.AssemblyInfo.cs
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\refint\AirConditionerShop.DAL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\ref\AirConditionerShop.DAL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\bin\Debug\net8.0\AirConditionerShop.DAL.runtimeconfig.json
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.csproj.AssemblyReference.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.DAL\obj\Debug\net8.0\AirConditionerShop.DAL.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.deps.json
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.pdb
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.pdb
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.AssemblyReference.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfoInputs.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfo.cs
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirCondi.927B0A0D.Up2Date
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\refint\AirConditionerShop.BLL.dll
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.pdb
+C:\Users\Khanh\Desktop\AirConditionerShop_NguyenGiaKhanh\AirConditionerShop.BLL\obj\Debug\net8.0\ref\AirConditionerShop.BLL.dll
